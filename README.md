@@ -2,7 +2,7 @@
 
 ## 문제 출처
 
-- [프로그래머스](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
+- [프로그래머스](https://school.programmers.co.kr/)
 
 ## basic
 
