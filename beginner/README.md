@@ -12,3 +12,4 @@
 - [두 수의 곱](./multiply.js)
 - [두 수의 합](./sum.js)
 - [두 수의 나눗셈](./divide.js)
+- [각도기](./angler.js)
