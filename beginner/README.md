@@ -8,3 +8,4 @@
 - [두 수 비교하기](./compareNumbers.js)
 - [두 수 차 구하기](./diffNumbers.js)
 - [나머지 구하기](./division.js)
+- [나이 구하기](./getAge.js)
