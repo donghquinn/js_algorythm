@@ -6,3 +6,6 @@
  * @returns n을 문자열로 변환
  */
 const solution = ( n ) => String( n );
+
+// 다른 분 함수
+const solution2 = String;
