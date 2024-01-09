@@ -6,8 +6,7 @@
  * @param {*} start_num : Number - 정수
  * @param {*} end_num : Number - 정수
  */
-const solution = ( start_num, end_num ) =>
-{
+const solution = ( start_num, end_num ) => {
     const result = [];
 
     for ( let i = start_num; i <= end_num; i += 1 ) {
