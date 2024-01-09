@@ -5,7 +5,7 @@
 ## 문제
 
 - [몫 구하기](./divisionQuotient.js)
-- [두 수 비교하기](./compareNumbers.js)
-- [두 수 차 구하기](./diffNumbers.js)
+- [숫자 비교하기](./compareNumbers.js)
+- [두 수의 차](./diffNumbers.js)
 - [나머지 구하기](./division.js)
-- [나이 구하기](./getAge.js)
+- [나이 출력](./getAge.js)
