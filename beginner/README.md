@@ -9,3 +9,4 @@
 - [두 수의 차](./diffNumbers.js)
 - [나머지 구하기](./division.js)
 - [나이 출력](./getAge.js)
+- [두 수의 곱](./multiply.js)
