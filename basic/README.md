@@ -19,3 +19,8 @@
 - [문자열로 변환]("convertToString.js")
 - [원소들의 곱과 합]("elementsMultiAndSum.js")
 - [두 수의 연산값 비교하기]("compareOutput.js")
+- [대문자로 바꾸기]("uppercase.js")
+- [홀짝 구분하기]("oddEven.js")
+- [접두사인지 확인하기]("checkPrefix.js")
+- [문자열을 정수로 변환하기]("stringToInt.js")
+- [수 조작하기1]("controlNumber1.js")
