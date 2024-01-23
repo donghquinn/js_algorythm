@@ -24,7 +24,7 @@ const solution = ( num_list ) => {
  * 
  * 배열 분해 하는 방법
  */
-function solution(num_list) {
+function solution2(num_list) {
     var answer = [0,0];
 
     for(let a of num_list){

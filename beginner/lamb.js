@@ -22,7 +22,7 @@ const solution = ( n, k ) => {
  * 다른 사람 풀이
  * 틸트 문법 ~~ 사용
  */
-function solution(n, k) {
+function solution2(n, k) {
     k-=~~(n/10);
     if (k < 0) k = 0;
     return n*12000+k*2000;
